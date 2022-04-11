@@ -17,3 +17,6 @@
 ```sh
 6. git checkout - transition from one commit to another
 ```
+```sh
+7. git checkout master - back to current state
+```
