@@ -14,3 +14,6 @@
 ```sh
 5. git log - print history of all commits with their hash codes
 ```
+```sh
+6. git checkout - transition from one commit to another
+```
