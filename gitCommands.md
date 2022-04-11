@@ -20,3 +20,6 @@
 ```sh
 7. git checkout master - back to current state
 ```
+```sh
+8. git diff - see the difference between the current file and the commited file
+```
