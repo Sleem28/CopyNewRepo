@@ -11,3 +11,6 @@
 ```sh
 4. git commit -m "a discription" - create the commit
 ```
+```sh
+5. git log - print history of all commits with their hash codes
+```
