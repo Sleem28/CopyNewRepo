@@ -8,3 +8,6 @@
 ```sh
 3. git add - add a file or files to the next commit
 ```
+```sh
+4. git commit -m "a discription" - create the commit
+```
