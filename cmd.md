@@ -9,7 +9,8 @@ cd c:\folder_name
 ```sh
 dir
 ```
-Как удалить файлы
+Удаление файлов:
+
 ```sh
-del имя_файла
+del <filename>
 ```
