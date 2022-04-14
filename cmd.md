@@ -4,3 +4,8 @@
 ```sh
 cd c:\folder_name
 ```
+
+Листингтекущей директории Windows:
+```sh
+dir
+```
