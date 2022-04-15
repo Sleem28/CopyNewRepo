@@ -1,1 +1,2 @@
-1. create first commit and branch
+1. create first commit and branchgit
+2. add the second line
