@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 * line1
 * line2
 * line3
@@ -19,7 +18,6 @@ Added some text to block.
 **Fat text**
 
 *** 
-=======
 # Citation
 
 > First level
@@ -27,4 +25,3 @@ Added some text to block.
 >>> Third level
 
 **Fat text2**
->>>>>>> fourth
